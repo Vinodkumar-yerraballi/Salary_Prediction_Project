@@ -22,4 +22,4 @@ For model deployment, we used Streamlit, a user-friendly web app framework. In t
 
 Web App: https://salarypredictionproject-2g8cme26awavyozazmas89.streamlit.app/
 
-[Web app demo](C://Users//vinod//Salary_Prediction_Project//Demo_video.mp4)
+[!Web_app_demo](C://Users//vinod//Salary_Prediction_Project//Demo_video.mp4)
